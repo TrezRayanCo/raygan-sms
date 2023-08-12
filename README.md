@@ -33,7 +33,7 @@ RayganSms API for send text messages
 </div>
 
 ```bash
-composer require trez/raygan-sms
+composer require trezrayan/raygan-sms
 ```
 
 <div dir="rtl">
